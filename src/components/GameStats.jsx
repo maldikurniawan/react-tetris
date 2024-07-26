@@ -1,7 +1,5 @@
 import React from "react";
 
-import "./GameStats.css";
-
 const GameStats = ({ gameStats }) => {
   const { level, points, linesCompleted, linesPerLevel } = gameStats;
   const linesToLevel = linesPerLevel - linesCompleted;

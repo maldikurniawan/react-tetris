@@ -1,5 +1,3 @@
-import "./GameController.css";
-
 import { Action, actionForKey, actionIsDrop } from "/src/business/Input";
 import { playerController } from "/src/business/PlayerController";
 
