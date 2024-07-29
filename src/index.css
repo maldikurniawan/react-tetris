@@ -22,7 +22,7 @@
   display: grid;
   grid-gap: 2px;
   width: 320px;
-  height: 600px;
+  height: 550px;
   background: rgb(32, 0, 64);
   border: 10px solid rgb(32, 0, 64);
   border-radius: 10px;
