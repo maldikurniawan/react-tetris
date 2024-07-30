@@ -21,7 +21,7 @@
   margin: 2px auto;
   display: grid;
   grid-gap: 2px;
-  width: 320px;
+  width: 300px;
   height: 520px;
   background: rgb(32, 0, 64);
   border: 10px solid rgb(32, 0, 64);
@@ -91,7 +91,7 @@
 
 .GameStats {
   position: absolute;
-  width: 320px;
+  width: 305px;
   list-style-type: none;
   color: rgba(255, 255, 255, 0.5);
 }
@@ -134,7 +134,7 @@
 .Preview {
   position: absolute;
   top: 0;
-  left: 870px;
+  left: 855px;
   background: rgba(0, 0, 0, 0.1);
   border: 10px solid rgba(0, 0, 0, 0);
   border-radius: 10px;
